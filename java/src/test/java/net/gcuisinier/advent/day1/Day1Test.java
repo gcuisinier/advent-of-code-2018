@@ -1,5 +1,6 @@
 package net.gcuisinier.advent.day1;
 
+import net.gcuisinier.advent.Day1;
 import org.junit.Assert;
 import org.junit.Test;
 

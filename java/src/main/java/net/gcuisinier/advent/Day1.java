@@ -1,4 +1,4 @@
-package net.gcuisinier.advent.day1;
+package net.gcuisinier.advent;
 
 import com.sun.tools.corba.se.idl.InterfaceGen;
 

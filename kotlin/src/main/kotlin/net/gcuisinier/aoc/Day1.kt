@@ -6,7 +6,7 @@ class Day1 {
 
 
     companion object {
-        
+
         @JvmStatic
         fun process1(numbers: List<Int>): Int {
             return numbers.sum()
